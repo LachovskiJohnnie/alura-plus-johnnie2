@@ -1,1 +1,1 @@
-# alura-plus-johnnie2
+# Alura-Plus-Johnnie
